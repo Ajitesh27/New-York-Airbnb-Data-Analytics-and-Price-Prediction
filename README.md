@@ -1,0 +1,2 @@
+# New-York-Airbnb-Data-Analytics-and-Prediction
+Data Analytics Project as part of DA course UE18CS312 ,5th semester.UE18CS312.The goal is to analyse and predict the price and other variables in the New york Airbnb data. Various visualisation techniques and other methods are used for exploratory data analysis.The data is searched for patterns.Correlation between the variables are calculated and models are developed so as to accurately predict the target variable. Also a recommendation system will be built to recommend Airbnb listings according to the user preference.
