@@ -14,5 +14,8 @@ on name.
 To reproduce the results:
 Clone the repository or just download the jupyter botebook file and dataset.
  Open in jupyter notebook and run all cells.
-You can also get the dataset from here:<a href="https://www.kaggle.com/dgomonov/new-york-city-airbnb-open-data"/>link
+You can also get the dataset from here:<a href="https://www.kaggle.com/dgomonov/new-york-city-airbnb-open-data"/>dataset link</a>
+
+If you can't view the jupyter notebook, please use this link:<br>
+https://nbviewer.jupyter.org/github/Ajitesh27/New-York-Airbnb-Data-Analytics-and-Prediction/blob/main/Final-Data%20Analytics%20Project%20DATA%20EXPLORERS.ipynb
 
